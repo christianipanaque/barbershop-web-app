@@ -1,0 +1,12 @@
+.haircut-option {
+    cursor: pointer;
+    border: 2px solid transparent;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.selected {
+    border-color: #007bff;
+    /* Blue border for selected haircut */
+}

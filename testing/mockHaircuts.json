@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Buzz Cut", "image": "/images/buzzcut.png" },
+  { "id": 2, "name": "Classic Short", "image": "/images/classicshort.png" },
+  { "id": 3, "name": "Textured Pompadour", "image": "/images/texturedpompadour.png" },
+  { "id": 4, "name": "Side Part", "image": "/images/sidepart.png" }
+]
